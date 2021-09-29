@@ -9,3 +9,4 @@ fun highFunc(sum: (Int, Int) -> Int, a: Int, b: Int): Int = sum(a,b)
 * 람다식을 사용할 수 있다.
 * 고차 함수를 사용할 수 있다.
 * */
+
