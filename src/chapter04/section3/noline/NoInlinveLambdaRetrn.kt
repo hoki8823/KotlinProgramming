@@ -25,6 +25,7 @@ fun retFunc() {
     람다식에서 라벨을 정의해 return을 사용
     - 라벨 이름@
     - return@라벨 이름
+
     람다식의 명칭 그대로 라벨처럼 사용하는 것을 암묵적 라벨이라 함.
     - return@inlineLambda
     @ - 앳(at)이라고 부름
